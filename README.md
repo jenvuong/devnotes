@@ -4,5 +4,4 @@
 ## DEV LOGS
 
 #### 01-08-2024
-- signed up to & installed vs code & github desktop!  
-- something else  
+- installed vs code & signed up to github!
