@@ -48,7 +48,7 @@ Bash (Bourne-Again SHell) is the most widely used shell program.
   
 
 <sub>* NOTE: In vs code, ctrl + e is assigned to the `workbench.action.quickOpen` command.  
-Solution for overriding and reassigning CTRL + E can be found [here](https://github.com/Microsoft/vscode/issues/59304)</sub>
+Solution for overriding and reassigning ctrl + e can be found [here](https://github.com/Microsoft/vscode/issues/59304)</sub>
 
 
 
