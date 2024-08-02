@@ -1,7 +1,7 @@
 
-# DEVELOPER LOG
+## DEVELOPER LOG
 
-## DEV LOGS
+### DEV LOGS
 
 #### 01-08-2024
 - installed vs code & signed up to github!
