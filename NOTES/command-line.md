@@ -28,15 +28,27 @@ Bash (Bourne-Again SHell) is the most widely used shell program.
 | ctrl + a | Moves cursor to start of the line |
 | ctrl + e | Moves cursor to end of line* |
 | ctrl + l | Clears terminal screen. Typing 'clear' does the same thing |
-| -------- | -------- |
+|**Create Files and Directories**|
 | touch filename.txt | Creates file |
 | echo "Content of text file" > filename.txt | Overrides content of file |
 | echo "Additional content to add" >> filename.txt | Appends content to file |
 | mkdir newdir | Creates a new directory/folder |
-| mkdir -p newdir/seconddir | Creates multiple directories at once |
+| mkdir -p newdir/seconddir | Adding p tag enables ability to create multiple directories at once |  
+| **Navigate and Find Files** |
+| ls | Provides an overview of where we are and a simple overview of all the files in the directory |
+| ls -lah | Lists all the files in the directory. Includes additional information such as file permissions, file owner and date created. |
+| cd newdir/secondir | Navigate to another directory |
+| cd .. | Go back one directory. |
+| cd ../.. | Go back two directories and so on |
+| **Manipulating Files** |
+| rm filename.txt | Deletes file |
+| mv filename.txt seconddir/newfilename.txt | Renames file or moves file to new directory |
+| cp filename.txt filenamecopy.txt | Makes a copy of file, set new name for copied file |
 
+  
 
-*NOTE: In VS Code, CTRL + E is assigned to the `workbench.action.quickOpen` command. Solution for overriding and reassigning CTRL + E can be found [here](https://github.com/Microsoft/vscode/issues/59304)
+<sub>* NOTE: In vs code, ctrl + e is assigned to the `workbench.action.quickOpen` command.  
+Solution for overriding and reassigning CTRL + E can be found [here](https://github.com/Microsoft/vscode/issues/59304)</sub>
 
 
 
