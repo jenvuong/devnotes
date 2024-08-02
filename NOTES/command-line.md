@@ -7,11 +7,12 @@ It is the 'alternative' to Graphical user interface (GUI). This is essentially t
 
 #### Why not just use the GUI?
 Why do we need to learn CLI if we can do the same tasks using the GUI?  
-CLI can help us perform tasks more efficiently. Doing the same set of tasks through the GUI may require numerous clicks and sorting through crowds of windows. 
+CLI can help us perform tasks more efficiently. Doing the same set of tasks through the GUI may require numerous clicks and sorting through crowds of windows.  
 With CLI, a task can be executed with writing just a single line of code. With effort and habit in employing the Command Line, it will eventually become muscle-memory and improve our workflow.
 
-### What is the terminal?
-The terminal is a text input and output environment. It is more simply the 'window' where we enter text inputs as commands.  
+
+### What is the Terminal?
+The terminal is a text input and output environment. More simply put, it is the 'window' where we enter text inputs as commands.  
 
 ### What is a Shell?
 A shell is a program that provides a user interface which handles inputs (commands) and outputs accordingly. A shell is the layer between the user and kernel. It acts as an interpreter which allows users to interact with the kernel from the command line.
