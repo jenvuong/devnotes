@@ -23,12 +23,13 @@
 
 #### 05-08-2024
 - To Do List App using React
-    - Learning basics of dev environment/setup
+    - *Learning basics of dev environment/setup*
     - Drafted basic ui using jsx
 
 #### 06-08-2024
 - To Do List App using React
-    - Added functionality to app (Add/delete task, toggle complete with ui updates, local storage)
-    - First solo debugging (Toggle button was a struggle to get working)
+    - Added functionality to app (Add/delete task, toggle complete with ui updates, local storage, modal)
+        - *Practicing passing props between files*
+    - First solo debugging session (Toggle button was a struggle to get working)
         - *Learnt how to read console error messages (locating file and line number)*
 
