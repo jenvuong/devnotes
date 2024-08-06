@@ -18,6 +18,11 @@
 - Learning how to learn
     - Created documentation for learning how to learn 
     - Added first lesson "Learn just enough to start playing", from "Soft Skills: The software developer's life manual" by John Z. Sonmez.
-- To Do List app using React
+- To Do List App using React
     - Started designing mockup using Figma
+
+#### 05-08-2024
+- To Do List App using React
+    - Learning basics of dev environment/setup
+    - Drafted basic ui using jsx
 
