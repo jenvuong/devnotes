@@ -7,11 +7,11 @@
 
 #### 02-08-2024
 - Command-line
-    - Learnt about basic command line tools. (mainly directory and file management, overview on Bash). 
+    - *Learnt about basic command line tools. (mainly directory and file management, overview on Bash).* 
     - Able to use simple CLI commands in vs code.
     - Created documentation for command-line. (Covers the basics of CLI).
 - VS Code
-    - Learnt basic vs code shortcuts for productivity.
+    - *Learnt basic vs code shortcuts for productivity.*
     - Need to incorporate keyboard habits to build familiarity.
 
 #### 03-08-2024
@@ -25,4 +25,10 @@
 - To Do List App using React
     - Learning basics of dev environment/setup
     - Drafted basic ui using jsx
+
+#### 06-08-2024
+- To Do List App using React
+    - Added functionality to app (Add/delete task, toggle complete with ui updates, local storage)
+    - First solo debugging (Toggle button was a struggle to get working)
+        - *Learnt how to read console error messages (locating file and line number)*
 
