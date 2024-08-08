@@ -1,7 +1,7 @@
 # GitHub
 Everything I have learnt so far in GitHub!
 
-## Deploying projects with GitHub Pages
+## Deploying projects with GitHub Pages with Vite
 1. Set base in vite.config.js  
 
    -  `base: '/<REPO>/'`  
