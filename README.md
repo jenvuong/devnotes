@@ -33,3 +33,9 @@
     - First solo debugging session (Toggle button was a struggle to get working)
         - *Learnt how to read console error messages (locating file and line number)*
 
+#### 07-08-2024
+- Deployed first site through GitHub Pages
+    - Initially deployed blank page, but eventually found solution through:
+    https://vitejs.dev/guide/static-deploy.html#github-pages  
+    
+
