@@ -51,6 +51,7 @@
 #### 10-08-2024
 - Created Figma mockup for desktop, tablet and mobile for yoga landing page
     - https://www.figma.com/design/k3PecWkDf0fx4za6NBHtFj/yoga-landing-page 
+- Good practice using Figma today, more familiar with tools!
 
     
 
