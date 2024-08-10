@@ -37,5 +37,20 @@
 - Deployed first site through GitHub Pages
     - Initially deployed blank page, but eventually found solution through:
     https://vitejs.dev/guide/static-deploy.html#github-pages  
+
+#### 08-08-2024
+- Started landing page project to learn basics of Tailwind CSS.
+    - *Learnt basics of Tailwind CSS*
+    - *Learnt about adding custom scripts for npm inside package.JSON (for setting input & output for compiling & watching)*
+    - *Learnt different method to deploying pages to GitHub Pages.* Method is simpler compared to deploying using Vite, not necessary to create workflow .ymd
+
+#### 09-08-2024
+- Completed Tailwind CSS landing page
+- Beginning research and ideation for first React + Tailwind project!
+
+#### 10-08-2024
+- Created Figma mockup for desktop, tablet and mobile for yoga landing page
+    - https://www.figma.com/design/k3PecWkDf0fx4za6NBHtFj/yoga-landing-page 
+
     
 
