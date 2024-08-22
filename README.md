@@ -73,3 +73,7 @@
   - _Learned a little about build files though!_
 - Centered a div/img :D
   - (used flex parent)
+
+#### 22-08-2024
+
+- Deployed my first Vite site to Netlify! (There was a specific procedure to deploy Vite sites on Netlify)
